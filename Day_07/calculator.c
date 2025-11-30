@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-#include<math.h>
 #define MAX_HISTORY 100
 char history[MAX_HISTORY][100];
 int history_count = 0;
